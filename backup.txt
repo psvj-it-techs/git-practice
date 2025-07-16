@@ -1,10 +1,8 @@
-<<<<<<< Updated upstream
 Backup file by master branch
-=======
 Backup File
   app.py
   DBUtils.java
   DBString.java
->>>>>>> Stashed changes
 
 merge conflict by development 
+merge conflict by master
